@@ -1,0 +1,3 @@
+Read a CSV file, assume there are two fields, Name and Mark, with around 10 rows filled.
+Calculate the Mean, Variance and Standard deviation, write it to the CSV and save it.
+Also plot a graph of these values and mark the mean and SD on it.
